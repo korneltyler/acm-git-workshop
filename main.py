@@ -5,5 +5,6 @@ def calculate_compatibility(name1, name2):
     #TODO Add compatibility calculator
 
 if __name__ == "__main__":
-    pass
+    print("Hello, world!")
+    #pass
     #TODO Add your main section code here
