@@ -2,7 +2,7 @@
 
 ### **Question 1:** Does pineapple belong on pizza?
 
-(Answer here)
+Yes pinapple most definetly belongs on pizza. It is one of the most underrated toppings of all time. 
 
 ### **Question 2:** What campus study spot would you gatekeep?
 
